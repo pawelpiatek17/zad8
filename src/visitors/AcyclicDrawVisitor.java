@@ -1,0 +1,5 @@
+package visitors;
+
+public class AcyclicDrawVisitor implements KeyVisitor,MagicDoorVisitor,MagicWallVisitor,PlayerVisitor,StandardDoorVisitor,StandardWallVisitor,MagicHighRoomVisitor,StandardHighRoomVisitor{
+
+}
